@@ -1,0 +1,26 @@
+{
+  "name": "simple-node-express-app",
+  "version": "1.0.0",
+  "description": "Simple Node Express JS routing app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvitoriano/simple-node-express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvitoriano/simple-node-express-app/issues"
+  },
+  "homepage": "https://github.com/danvitoriano/simple-node-express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
